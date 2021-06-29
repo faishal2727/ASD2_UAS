@@ -2,7 +2,7 @@ package Queue;
 public class antrianApp {
    public static void main(String[] args) {
         var antri = new Antrian(10);
-        antri.enQueue(50);
+        antri.enQueue(59);
         antri.print();
         antri.enQueue(60);
         antri.print();
